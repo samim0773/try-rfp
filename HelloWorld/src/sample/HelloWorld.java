@@ -6,10 +6,19 @@ public class HelloWorld {
 	public static void main(String args[]) {
 	
 		System.out.println("Hello World, Welcome to Java Online Course!");
+<<<<<<< HEAD
 		System.out.println(" add from github....");
 		System.out.println(" learn git from edle");
 		System.out.println(" learn git from github");
 
+=======
+		System.out.println(" add from github");
+		System.out.println(" learn git from edle");
+		System.out.println(" learn git from github");
+
+		
+		System.out.println("this is for branch");
+>>>>>>> changeMessage
 		
 //		take input from user
 		Scanner sc = new Scanner(System.in);
