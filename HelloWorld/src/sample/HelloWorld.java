@@ -6,7 +6,7 @@ public class HelloWorld {
 	public static void main(String args[]) {
 	
 		System.out.println("Hello World, Welcome to Java Online Course!");
-		System.out.println(" add from github");
+		System.out.println(" add from github....");
 <<<<<<< HEAD
 		System.out.println(" learn git from edle");
 =======
