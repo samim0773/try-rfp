@@ -7,7 +7,7 @@ public class HelloWorld {
 	
 		System.out.println("Hello World, Welcome to Java Online Course!");
 		System.out.println(" add from github");
-		System.out.println(" learn git");
+		System.out.println(" learn git from edle");
 		
 //		take input from user
 		Scanner sc = new Scanner(System.in);
